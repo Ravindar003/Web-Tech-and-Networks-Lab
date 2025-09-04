@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <center>
+  <title>HTML COMMENT</title>
+</head>
+<body>
+
+<h1>HTML COMMENT</h1>
+
+<p>HTML comments are not displayed in the browser, but they can help document your HTML source code.</p>
+
+<hr>
+
+<h2>HTML Comment Tags</h2>
+
+<p>You can add comments to your HTML code using the following syntax:</p>
+
+<pre>
+<code>
+&lt;!-- This is a comment --&gt;
+</code>
+</pre>
+
+<p>Comments are helpful for explaining code, organizing sections, or leaving notes for other developers.</p>
+
+<hr>
+
+<h2>Add Comments</h2>
+
+<p>With comments, you can place reminders or explanations in your code without affecting the visual output.</p>
+
+<pre>
+<code>
+&lt;!-- This is a comment --&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+</code>
+</pre>
+
+<p>The comment will not be visible in the browser.</p>
+
+<hr>
+
+<h2>Hide Content</h2>
+
+<p>You can also use comments to hide content that you don’t want to be visible temporarily:</p>
+
+<pre>
+<code>
+&lt;p&gt;This is a visible paragraph.&lt;/p&gt;
+&lt;!-- &lt;p&gt;This is a hidden paragraph.&lt;/p&gt; --&gt;
+</code>
+</pre>
+
+<p>Only the first paragraph will be shown.</p>
+
+<hr>
+
+<h2>Browser Output</h2>
+
+<p>Here’s how the browser renders the code:</p>
+
+<p>This is a visible paragraph.</p>
+
+<!-- <p>This is a hidden paragraph.</p> -->
+
+<hr>
+
+<h2>End of Page</h2>
+
+<p>That’s how HTML comments work. They're essential for code organization and team development.</p>
+
+</body>
+</center>
+</html>
